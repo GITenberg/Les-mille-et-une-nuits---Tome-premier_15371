@@ -1,0 +1,30 @@
+_repo: Les-mille-et-une-nuits---Tome-premier_15371
+_version: 0.1.0
+alternative_title: Arabian nights. French
+contributor:
+  translator:
+    agent_name: Galland, Antoine
+    birthdate: 1646
+    deathdate: 1715
+    gutenberg_agent_id: '31901'
+    url: http://www.gutenberg.org/2009/agents/31901
+    wikipedia: http://en.wikipedia.org/wiki/Antoine_Galland
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_bookshelf: FR Contes
+gutenberg_issued: '2005-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15371'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Arab countries'
+- !lcc 'PJ'
+- !lcsh 'Fairy tales'
+title: Les mille et une nuits - Tome premier
+url: http://www.gutenberg.org/ebooks/15371
